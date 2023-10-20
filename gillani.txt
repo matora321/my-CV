@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+</head> <center><h1 style="background-color: yellow;"><b>Curriculum Vitae</b></h1></center>
+<body style="background-color: cornflowerblue;"><br><br><br> <h1 style="background-color: aquamarine;">Personal Information:</h1><ul style="background-color: burlywood;""> <b><li>Name:Shafiq ullah shah</li> <li><abbr title="Father">F</abbr>/Name:Tami ullah shah</li>
+<li>Address:Sadeeq e Akbar town peshawar</li> </b></ul> <br><hr> <h1 style="background-color: aquamarine;">Educational information:</h1> <ul style="background-color: burlywood;"><li>Matric from Peshawar board </li> <li>FSC from Peshawar board</li> <li>Civil Engineering in progress from <abbr title="University of Engineering and technology peshawar">UET</abbr> Peshawar</li> <li>Web <abbr title="development">dev</abbr> course from saylani mass and IT training centre</li></ul>
+<br><hr>    
+</body>
+</html>
